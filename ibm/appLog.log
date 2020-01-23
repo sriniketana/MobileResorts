@@ -1,0 +1,14 @@
+Project created on Thu Jan 23 2020, 01:39:45 GMT-0800 (Pacific Standard Time)
+
+ Info | datasourceDB | init | Thu Jan 23 2020, 01:39:46 GMT-0800 (Pacific Standard Time) | Data source DB initialized
+ Info | dsActionsDB | init | Thu Jan 23 2020, 01:39:46 GMT-0800 (Pacific Standard Time) | Data source actions DB initialized
+ Info | dsAttributesDB | init | Thu Jan 23 2020, 01:39:46 GMT-0800 (Pacific Standard Time) | Data source attributes DB initialized
+ Info | dsActionsMoreDB | init | Thu Jan 23 2020, 01:39:46 GMT-0800 (Pacific Standard Time) | Data source actions More DB Initialized
+ Info | appDB | init | Thu Jan 23 2020, 01:39:46 GMT-0800 (Pacific Standard Time) | App DB initialized
+ Info | settingsDB | init | Thu Jan 23 2020, 01:39:46 GMT-0800 (Pacific Standard Time) | SettingsDB initialized
+Success | projectHandler | createProject | Thu Jan 23 2020, 01:39:46 GMT-0800 (Pacific Standard Time) | Initialized all the DB's
+Success | projectHandler | createProject | Thu Jan 23 2020, 01:39:47 GMT-0800 (Pacific Standard Time) | Project created on file system.
+Success | projectHandler | createProject | Thu Jan 23 2020, 01:39:47 GMT-0800 (Pacific Standard Time) | Added app title to index.html
+ Info | projectHandler | createProject | Thu Jan 23 2020, 01:39:47 GMT-0800 (Pacific Standard Time) | Added bundle id to config.xml
+ Info | projectHandler | createProject | Thu Jan 23 2020, 01:39:47 GMT-0800 (Pacific Standard Time) | Copying over required plugins including mfp plugin
+ Info | projectHandler | createProject | Thu Jan 23 2020, 01:39:47 GMT-0800 (Pacific Standard Time) | Unzip start: 1:39:47 AM

@@ -1,0 +1,1 @@
+{"name":"NewTestMe","integrations":{"cordova":{}},"type":"ionic-angular","proxies":[{"path":"/mfp","proxyUrl":"http://console-mobilefirst-console.apps.demo.ibmdte.net:80/mfp"}]}
